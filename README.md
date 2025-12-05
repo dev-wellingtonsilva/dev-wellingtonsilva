@@ -1,4 +1,4 @@
-# Olá! Eu sou o Wellington Silva 👋
+#Wellington Silva
 
 ### 👨‍💻 Analista de Dados & Arquiteto de Software em Transição de Carreira
 
