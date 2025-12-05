@@ -1,4 +1,4 @@
-#Wellington Silva
+# Wellington Silva
 
 ### 👨‍💻 Analista de Dados & Arquiteto de Software em Transição de Carreira
 
