@@ -40,8 +40,8 @@ I believe the best way to learn is through hands-on experience. I maintain an ac
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-wellingtonsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Wellington no GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-wellingtonsilva&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-wellingtonsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Under Work" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-wellingtonsilva&layout=compact&theme=dracula" alt="Under Work" />
 </p>
 
 ---
