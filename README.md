@@ -27,7 +27,7 @@ My technology stack is diverse and constantly evolving, primarily focused on inf
 
 ---
 
-## 💡 Projetos e Prática (Home Lab)
+## 💡 Projects & Home Lab Practice
 
 I believe the best way to learn is through hands-on experience. I maintain an active Home Lab, where I apply concepts related to infrastructure, architecture, and automation, focusing on practical and personal projects:
 
